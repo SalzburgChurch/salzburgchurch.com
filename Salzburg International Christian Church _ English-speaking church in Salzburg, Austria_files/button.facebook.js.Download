@@ -1,0 +1,24 @@
+jQuery(document).ready( function($) {
+	$('body').prepend('<div id="fb-root"></div>');	
+});
+/*
+     FILE ARCHIVED ON 18:00:31 Oct 12, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:18:14 Jun 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 57.494 (3)
+  esindex: 0.008
+  captures_list: 71.47
+  CDXLines.iter: 10.195 (3)
+  PetaboxLoader3.datanode: 62.493 (4)
+  exclusion.robots: 0.17
+  exclusion.robots.policy: 0.16
+  RedisCDXSource: 0.811
+  PetaboxLoader3.resolve: 776.3
+  load_resource: 819.234
+*/

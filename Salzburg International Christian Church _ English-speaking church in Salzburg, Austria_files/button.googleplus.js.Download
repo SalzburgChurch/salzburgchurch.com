@@ -1,0 +1,26 @@
+(function() {
+  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+  po.src = '//web.archive.org/web/20171012174832/http://apis.google.com/js/plusone.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+/*
+     FILE ARCHIVED ON 17:48:32 Oct 12, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:18:14 Jun 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 119.336 (3)
+  esindex: 0.008
+  captures_list: 141.729
+  CDXLines.iter: 16.373 (3)
+  PetaboxLoader3.datanode: 52.065 (4)
+  exclusion.robots: 0.161
+  exclusion.robots.policy: 0.139
+  RedisCDXSource: 1.757
+  PetaboxLoader3.resolve: 803.673 (3)
+  load_resource: 760.72
+*/
